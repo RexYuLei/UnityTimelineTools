@@ -1,0 +1,83 @@
+
+bear.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 82
+  size: 642, 396
+  orig: 642, 396
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 1484, 728
+  size: 272, 382
+  orig: 272, 382
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 644, 161
+  size: 342, 317
+  orig: 342, 317
+  offset: 0, 0
+  index: -1
+head_a
+  rotate: false
+  xy: 988, 135
+  size: 330, 311
+  orig: 342, 317
+  offset: 12, 0
+  index: -1
+head_fur
+  rotate: false
+  xy: 1320, 141
+  size: 246, 305
+  orig: 246, 305
+  offset: 0, 0
+  index: -1
+head_ms
+  rotate: false
+  xy: 0, 0
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+head_t
+  rotate: false
+  xy: 1484, 525
+  size: 287, 201
+  orig: 287, 201
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 1043, 683
+  size: 439, 317
+  orig: 439, 317
+  offset: 0, 0
+  index: -1
+leg_l 
+  rotate: true
+  xy: 1043, 448
+  size: 233, 409
+  orig: 233, 409
+  offset: 0, 0
+  index: -1
+leg_r-1
+  rotate: false
+  xy: 1868, 749
+  size: 174, 251
+  orig: 174, 251
+  offset: 0, 0
+  index: -1
+mov
+  rotate: false
+  xy: 0, 480
+  size: 1041, 520
+  orig: 1041, 520
+  offset: 0, 0
+  index: -1
